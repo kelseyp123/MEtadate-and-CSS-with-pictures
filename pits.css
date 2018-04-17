@@ -1,0 +1,25 @@
+/*
+Kelsey Padilla
+March 28th, 2018
+Pitbulls
+*/
+
+* {
+
+}
+
+/* Put body attributes here */
+body {	
+	font-family: "Times New Roman", Times, serif;
+	font-size: 87.5%;
+	background-color: beige; 
+	color: black;
+} 
+
+figure {float: right;}
+
+h1 {
+font-size: 150%;
+text-align: center;
+text-decoration: underline overline; 
+}
